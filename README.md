@@ -1,5 +1,5 @@
 # demo-tf
 Demo Terraform for UniNorte Conference
 
-Execute the command below:
+Execute the command:
 `terraform init`
