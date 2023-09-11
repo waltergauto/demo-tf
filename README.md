@@ -1,5 +1,5 @@
 # demo-tf
 Demo Terraform for UniNorte Conference
 
-Execute the command:
+Clone repository and execute the command:
 `terraform init`
